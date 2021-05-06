@@ -7,9 +7,11 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
+  /*
   "scripts": {
-    "test": "n/a" //"echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  */
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mayfiete/node-blog-app.git"
